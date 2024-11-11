@@ -1,0 +1,52 @@
+h1 {
+    font-size: 60px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: gold;
+}
+
+.subheading {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.contentheading {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.content {
+    border: solid;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+#y12grouppic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border-radius: 50%;
+}
+
+#prefectbadgeandtie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+#prefectgraduates {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.img1 {
+    margin: 2px;
+    padding: 3px;
+    border: solid 1px;
+    border-radius: 50px 50px 50px 0;
+}
