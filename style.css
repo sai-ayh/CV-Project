@@ -31,16 +31,9 @@ h1 {
 }
 
 #prefectbadgeandtie {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-}
-
-#prefectgraduates {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 3px;
+    margin: 2px;
+    border: solid 1px;
     border-radius: 50%;
 }
 
